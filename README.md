@@ -1,5 +1,5 @@
 ### oLÁ!! 👋
-
+##
 <div>
   <a href="https://github.com/Jenni201206">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Jenni201206&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
@@ -18,7 +18,7 @@
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  
- ##   
+ ## 
  
  
   ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
